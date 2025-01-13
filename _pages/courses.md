@@ -18,4 +18,4 @@ redirect_from:
 * Circuit and System: Circuit Analysis, Analog Circuits, Digital System I, Design of CMOS Analog Integrated Circuit
 * Signal Processing: Signals and Systems, Digital Signal Processing
  
-For more details:[HAORAN YANG's transcript](./asset/HAORAN-YANG-transcript.pdf)
+For more details:[HAORAN YANG's transcript](../asset/HAORAN-YANG-transcript.pdf)
