@@ -47,7 +47,7 @@ efficiency by selecting optimal structural parameters using neural networks and 
 • Generated a comprehensive dataset for FDTD simulations using Lumerical API, employing Python to automate
 the parameter generation and simulation process.<br>
 • Built and trained MLP neural network models to predict absorption efficiency based on structural parameters,
-significantly reducing the design iteration time.<br>
+significantly reducing the design iteration time.
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -57,7 +57,7 @@ Nanowire Single-Photon Detectors) to enhance measurement precision in medical ap
 • Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
 tissue under 1064/1550 nm laser sources.<br>
 • Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
-indices from the temporal optical field’s cross-correlation function.<br>
+indices from the temporal optical field’s cross-correlation function.
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -69,7 +69,7 @@ commercial systems (e.g., Lakeshore Model 211).<br>
 operation of multiple devices, including Keysight DP832, Lakeshore Model 211, and Keysight SourceMeter
 SM2450.<br>
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
-enhance system stability<br>
+enhance system stability
 
 ## Awards
 * People’s Scholarship of Second-Class<br>
