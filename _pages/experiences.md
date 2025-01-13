@@ -34,7 +34,7 @@ tissue under 1064/1550 nm laser sources.<br>
 • Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
 indices from the temporal optical field’s cross-correlation function.
 
-for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+for more details:[AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter](../assets/ZQY.pdf)
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
