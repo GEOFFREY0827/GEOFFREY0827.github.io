@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design,
-Supervisor: XIAOLI JI, Professor, NJU
-Sep 2024 -Present
+## Research Experiences
+
+* **AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design**<br>
+Supervisor: XIAOLI JI, Professor, NJU<br>
+Sep 2024 -Present<br>
 • Utilized machine learning algorithms to optimize the design of plasmonic photodetectors, improving quantum
 efficiency by selecting optimal structural parameters using neural networks and particle swarm optimization
 (PSO).
@@ -19,18 +21,24 @@ efficiency by selecting optimal structural parameters using neural networks and 
 the parameter generation and simulation process.
 • Built and trained MLP neural network models to predict absorption efficiency based on structural parameters,
 significantly reducing the design iteration time.
-AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter,
-Supervisor: QINGYUAN ZHAO, Professor, NJU
-Aug 2024 -Present
+
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+
+* **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
+Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
+Aug 2024 -Present<br>
 • Led a team of 4 members in developing a high-resolution blood flow meter based on SNSPD (Superconducting
 Nanowire Single-Photon Detectors) to enhance measurement precision in medical applications.
 • Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
 tissue under 1064/1550 nm laser sources.
 • Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
 indices from the temporal optical field’s cross-correlation function.
-Temperature Control System Based on GM Cryocooler,
-Supervisor: QINGYUAN ZHAO, Professor, NJU
-Mar 2024- Aug 2024
+
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+
+* **Temperature Control System Based on GM Cryocooler**<br>
+Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
+Mar 2024- Aug 2024<br>
 • Designed and implemented an automated closed-loop temperature control system for superconducting quantum
 device testing, achieving precise control from 40K to 2.5K with 0.05K accuracy, surpassing the capabilities of
 commercial systems (e.g., Lakeshore Model 211).
@@ -39,3 +47,5 @@ operation of multiple devices, including Keysight DP832, Lakeshore Model 211, an
 SM2450.
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
+
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
