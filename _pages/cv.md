@@ -49,6 +49,8 @@ the parameter generation and simulation process.<br>
 • Built and trained MLP neural network models to predict absorption efficiency based on structural parameters,
 significantly reducing the design iteration time.
 
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
 Aug 2024 -Present<br>
@@ -58,6 +60,8 @@ Nanowire Single-Photon Detectors) to enhance measurement precision in medical ap
 tissue under 1064/1550 nm laser sources.<br>
 • Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
 indices from the temporal optical field’s cross-correlation function.
+
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -70,6 +74,8 @@ operation of multiple devices, including Keysight DP832, Lakeshore Model 211, an
 SM2450.<br>
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
+
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
 
 ## Awards
 * People’s Scholarship of Second-Class<br>
