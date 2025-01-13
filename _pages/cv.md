@@ -9,35 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Education
-======
+## Education
+
 * Nanjing University                                    September 2022- June 2026(Expected)
 * Major : Microelectronics Science and Engineering
 * Overall GPA: 88/100, Major GPA: 87.4/100
 
-<h2>Major Courses:
-====== 
+## Major Courses:
+ 
 * Programming: C Programming, Data Structures and Algorithms
 * Physics: Semiconducting Physics, Quantum physics and communication
 * Artificial Intelligence: Application of artificial intelligence in medical imaging
 * Circuit and System: Circuit Analysis, Analog Circuits, Digital System I, Design of CMOS Analog Integrated Circuit
 * Signal Processing: Signals and Systems, Digital Signal Processing
  
-<h2>Skills
-======
-S :  skilled<br>
-M :  masted<br>
-L :  learned before<br>
-U :  used before<br>
-K :  know sth about it<br>
+## Skills
+
+&emsp S :  skilled<br>
+&emsp M :  masted<br>
+&emsp L :  learned before<br>
+&emsp U :  used before<br>
+&emsp K :  know sth about it<br>
 * **Basic Skills**: Python(M), LaTeX(M), Markdown(mastered), C(L), MATLAB(U), Mathematic(U)  
 * **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
 * **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
 * **Physics-related**: COMSOL(U), FDTD(U)  
 
 
-<h2>Research Experiences
-======
+## Research Experiences
+
 * **AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design**<br>
 Supervisor: XIAOLI JI, Professor, NJU<br>
 Sep 2024 -Present<br>
@@ -72,7 +72,7 @@ SM2450.
 enhance system stability
 
 <h2>Awards
-======
+
 People’s Scholarship of Second-Class
 
 Outstanding Volunteer, Nanjing University 
