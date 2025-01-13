@@ -28,7 +28,7 @@ U :  used before
 
 K :  know sth about it  
 
-**Basic Skills**: Python(M), LaTeX(M), Markdown(mastered), C(L), MATLAB(U), Mathematic(U)  
+**Basic Skills**: Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
 
 **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
 
