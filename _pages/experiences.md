@@ -22,8 +22,8 @@ the parameter generation and simulation process.<br>
 • Built and trained MLP neural network models to predict absorption efficiency based on structural parameters,
 significantly reducing the design iteration time.
 
-for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
-codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/code2.zip)
+for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)<br>
+codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/code1.zip)
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
