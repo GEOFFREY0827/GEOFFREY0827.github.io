@@ -18,15 +18,15 @@ You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_
 
 ## Technical Skills
 
-&emsp; S :  skilled<br>
-&emsp; M :  masted<br>
-&emsp; L :  learned before<br>
-&emsp; U :  used before<br>
-&emsp; K :  know sth about it<br>
-* **Basic Skills** : Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
-* **Software-related** : PyTorch(M), sci-kit_learn(U), git(K)  
-* **Circuit Design-related** : Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
-* **Physics-related** : COMSOL(U), FDTD(U)  
+&emsp; S:  skilled<br>
+&emsp; M:  masted<br>
+&emsp; L:  learned before<br>
+&emsp; U:  used before<br>
+&emsp; K:  know sth about it<br>
+* **Basic Skills**: Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
+* **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
+* **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
+* **Physics-related**: COMSOL(U), FDTD(U)  
 
 I am striving to improve my skills in coding, mathematics, and digital circuit design, and I believe I will succeed!
 
