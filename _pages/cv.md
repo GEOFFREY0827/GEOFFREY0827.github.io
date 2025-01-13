@@ -25,11 +25,11 @@ redirect_from:
  
 ## Skills
 
-&emsp S :  skilled<br>
-&emsp M :  masted<br>
-&emsp L :  learned before<br>
-&emsp U :  used before<br>
-&emsp K :  know sth about it<br>
+&emsp; S :  skilled<br>
+&emsp; M :  masted<br>
+&emsp; L :  learned before<br>
+&emsp; U :  used before<br>
+&emsp; K :  know sth about it<br>
 * **Basic Skills**: Python(M), LaTeX(M), Markdown(mastered), C(L), MATLAB(U), Mathematic(U)  
 * **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
 * **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
@@ -71,10 +71,8 @@ SM2450.
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
 
-<h2>Awards
+## Awards
 
-People’s Scholarship of Second-Class
-
-Outstanding Volunteer, Nanjing University 
-
+People’s Scholarship of Second-Class<br>
+Outstanding Volunteer, Nanjing University<br>
 Excellent Lecturer, Starfire Teaching Group(Learning support group initiated by School of Electronics, Nanjing University)
