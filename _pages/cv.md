@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<h2>Education
 ======
 * Nanjing University                                    September 2022- June 2026(Expected)
 * Major : Microelectronics Science and Engineering
 * Overall GPA: 88/100, Major GPA: 87.4/100
 
-Major Courses:
+<h2>Major Courses:
 ====== 
 * Programming: C Programming, Data Structures and Algorithms
 * Physics: Semiconducting Physics, Quantum physics and communication
@@ -23,7 +23,7 @@ Major Courses:
 * Circuit and System: Circuit Analysis, Analog Circuits, Digital System I, Design of CMOS Analog Integrated Circuit
 * Signal Processing: Signals and Systems, Digital Signal Processing
  
-Skills
+<h2>Skills
 ======
 S :  skilled<br>
 M :  masted<br>
@@ -36,7 +36,7 @@ K :  know sth about it<br>
 * **Physics-related**: COMSOL(U), FDTD(U)  
 
 
-Research Experiences
+<h2>Research Experiences
 ======
 * **AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design**<br>
 Supervisor: XIAOLI JI, Professor, NJU<br>
@@ -71,7 +71,7 @@ SM2450.
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
 
-Awards
+<h2>Awards
 ======
 People’s Scholarship of Second-Class
 
