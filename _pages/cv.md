@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* Nanjing University                                    September 2022- June 2026(Expected)
-* Major : Microelectronics Science and Engineering
+* Nanjing University &emsp;                     September 2022- June 2026(Expected)
+* Major: Microelectronics Science and Engineering
 * Overall GPA: 88/100, Major GPA: 87.4/100
 
 ## Major Courses
@@ -25,11 +25,11 @@ redirect_from:
  
 ## Skills
 
-&emsp; S :  skilled<br>
-&emsp; M :  masted<br>
-&emsp; L :  learned before<br>
-&emsp; U :  used before<br>
-&emsp; K :  know sth about it<br>
+&emsp; S:  skilled<br>
+&emsp; M:  masted<br>
+&emsp; L:  learned before<br>
+&emsp; U:  used before<br>
+&emsp; K:  know sth about it<br>
 * **Basic Skills**: Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
 * **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
 * **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
