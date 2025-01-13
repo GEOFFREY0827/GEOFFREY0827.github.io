@@ -15,7 +15,7 @@ redirect_from:
 * Major : Microelectronics Science and Engineering
 * Overall GPA: 88/100, Major GPA: 87.4/100
 
-## Major Courses:
+## Major Courses
  
 * Programming: C Programming, Data Structures and Algorithms
 * Physics: Semiconducting Physics, Quantum physics and communication
@@ -72,7 +72,6 @@ SM2450.
 enhance system stability
 
 ## Awards
-
-People’s Scholarship of Second-Class<br>
-Outstanding Volunteer, Nanjing University<br>
-Excellent Lecturer, Starfire Teaching Group(Learning support group initiated by School of Electronics, Nanjing University)
+* People’s Scholarship of Second-Class<br>
+* Outstanding Volunteer, Nanjing University<br>
+* Excellent Lecturer, Starfire Teaching Group(Learning support group initiated by School of Electronics, Nanjing University)
