@@ -30,7 +30,7 @@ redirect_from:
 &emsp; L :  learned before<br>
 &emsp; U :  used before<br>
 &emsp; K :  know sth about it<br>
-* **Basic Skills**: Python(M), LaTeX(M), Markdown(mastered), C(L), MATLAB(U), Mathematic(U)  
+* **Basic Skills**: Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
 * **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
 * **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
 * **Physics-related**: COMSOL(U), FDTD(U)  
