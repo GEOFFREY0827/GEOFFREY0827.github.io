@@ -19,6 +19,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+  - title: "Research Experiences"
+    url: /experiences/
+
+  - title: "Courses"
+    url: /courses/
     
   - title: "CV"
     url: /cv/
