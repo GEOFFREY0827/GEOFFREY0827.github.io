@@ -23,6 +23,7 @@ the parameter generation and simulation process.<br>
 significantly reducing the design iteration time.
 
 for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/code2.zip)
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -48,4 +49,4 @@ SM2450.<br>
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
 
-for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)
+codes:[Temperature Control System Based on GM Cryocooler](../assets/code3.zip)
