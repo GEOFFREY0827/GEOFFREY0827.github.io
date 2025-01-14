@@ -13,7 +13,7 @@ redirect_from:
 ## Major Courses
 * Programming: C Programming, Data Structures and Algorithms
 * Physics: Semiconducting Physics, Quantum physics and communication
-* Artificial Intelligence: Application of artificial intelligence in medical imaging
+* Artificial Intelligence: AI for Medical Imaging
 * Circuit and System: Circuit Analysis, Analog Circuits, Digital System I, Design of CMOS Analog Integrated Circuit
 * Signal Processing: Signals and Systems, Digital Signal Processing
 
@@ -22,8 +22,9 @@ redirect_from:
 Analog Circuits: 93<br>
 Digital System I: 91<br>
 Data Structures and Algorithms: 93<br>
-College Physics: 93.7<br>
-College Physics: 90<br>
+College Physics I: 93.7<br>
+College Physics II: 90<br>
+AI for Medical Imaging: 92<br>
 
 ## Not bad courses:
 (The grades are ok but not as good as I had hoped.)<br>
