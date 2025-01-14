@@ -32,5 +32,6 @@ Circuit Analysis: 87<br>
 Calculus I(Tier 1): 87<br>
 Digital Signal Processing: 87.3<br>
 Quantum physics and communication: 86<br>
+Design of CMOS Analog Integrated Circuit: 86<br>
 
 For more details:[HAORAN YANG's transcript](../assets/Haoran_Yang_transcript.pdf)
