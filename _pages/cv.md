@@ -49,8 +49,8 @@ the parameter generation and simulation process.<br>
 • Built and trained MLP neural network models to predict absorption efficiency based on structural parameters,
 significantly reducing the design iteration time.
 
-&emsp;for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/JXL.pptx)<br>
-&emsp;codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/code1.zip)
+&emsp;for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/Algorithm-Schottky.pptx)<br>
+&emsp;codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/Schottky-code.zip)
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -62,7 +62,7 @@ tissue under 1064/1550 nm laser sources.<br>
 • Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
 indices from the temporal optical field’s cross-correlation function.
 
-&emsp;for more details:[AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter](../assets/ZQY.pdf)
+&emsp;for more details:[AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter](../assets/SNSPD-Blood Flow Detector.pdf)
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
@@ -76,7 +76,7 @@ SM2450.<br>
 • Utilized PID control combined with fuzzy logic and Kalman filtering to achieve precise temperature control and
 enhance system stability
 
-&emsp;codes:[Temperature Control System Based on GM Cryocooler](../assets/code3.zip)
+&emsp;codes:[Temperature Control System Based on GM Cryocooler](../assets/temp-control.zip)
 
 ## Awards
 * People’s Scholarship of Second-Class<br>
