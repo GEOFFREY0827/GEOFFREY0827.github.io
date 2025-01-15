@@ -34,4 +34,11 @@ Digital Signal Processing: 87.3<br>
 Quantum physics and communication: 86<br>
 Design of CMOS Analog Integrated Circuit: 86<br>
 
+## Course Report：
+## A.AI for Medical Imaging
+[machine learning](../assets/course_report_AFMI_ML)<br>
+[deep learning](../assets/course_report_AFMI_DL)<br>
+## B.Semiconducting Physics
+[Literature review of crystalline silicon solar cells](../assets/course_report_SP)<br>
+
 For more details:[HAORAN YANG's transcript](../assets/Haoran_Yang_transcript.pdf)
