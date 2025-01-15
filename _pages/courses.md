@@ -36,9 +36,9 @@ Design of CMOS Analog Integrated Circuit: 86<br>
 
 ## Course Report：
 ## A. AI for Medical Imaging
-Section1:[machine learning](../assets/course_report_AFMI_ML)<br>
-Section2:[deep learning](../assets/course_report_AFMI_DL)<br>
+Section1: [machine learning](../assets/course_report_AFMI_ML)<br>
+Section2: [deep learning](../assets/course_report_AFMI_DL)<br>
 ## B. Semiconducting Physics
-Section1:[Literature review of crystalline silicon solar cells](../assets/course_report_SP)<br>
+Section1: [Literature review of crystalline silicon solar cells](../assets/course_report_SP)<br>
 
 For more details:[HAORAN YANG's transcript](../assets/Haoran_Yang_transcript.pdf)
