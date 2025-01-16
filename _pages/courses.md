@@ -24,6 +24,7 @@ Digital System I: 91<br>
 Data Structures and Algorithms: 93<br>
 College Physics I: 93.7<br>
 College Physics II: 90<br>
+Semiconducting Physics: 93<br>
 AI for Medical Imaging: 92<br>
 
 ## Not bad courses:
