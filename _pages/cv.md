@@ -13,7 +13,7 @@ redirect_from:
 
 * Nanjing University &emsp;                     September 2022- June 2026(Expected)
 * Major: Microelectronics Science and Engineering
-* Overall GPA: 88.2/100, Major GPA: 87.8/100
+* GPA: 88.4/100
 
 ## Major Courses
  
