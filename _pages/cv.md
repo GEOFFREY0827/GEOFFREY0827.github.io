@@ -40,7 +40,7 @@ redirect_from:
 
 * **AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design**<br>
 Supervisor: XIAOLI JI, Professor, NJU<br>
-Sep 2024 -Present<br>
+Sept 2024 - Jan 2025<br>
 • Utilized machine learning algorithms to optimize the design of plasmonic photodetectors, improving quantum
 efficiency by selecting optimal structural parameters using neural networks and particle swarm optimization
 (PSO).<br>
@@ -54,7 +54,7 @@ significantly reducing the design iteration time.
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
-Aug 2024 -Present<br>
+Jun 2024 - Sept 2024<br>
 • Led a team of 4 members in developing a high-resolution blood flow meter based on SNSPD (Superconducting
 Nanowire Single-Photon Detectors) to enhance measurement precision in medical applications.<br>
 • Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
@@ -66,7 +66,7 @@ indices from the temporal optical field’s cross-correlation function.
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
-Mar 2024- Aug 2024<br>
+Mar 2024- Jun 2024<br>
 • Designed and implemented an automated closed-loop temperature control system for superconducting quantum
 device testing, achieving precise control from 40K to 2.5K with 0.05K accuracy, surpassing the capabilities of
 commercial systems (e.g., Lakeshore Model 211).<br>
