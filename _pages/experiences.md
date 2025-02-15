@@ -27,7 +27,7 @@ significantly reducing the design iteration time.
 
 * **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
-Jun 2024 - Sept 2024<br>
+Sept 2024 - Dec 2024<br>
 • Led a team of 4 members in developing a high-resolution blood flow meter based on SNSPD (Superconducting
 Nanowire Single-Photon Detectors) to enhance measurement precision in medical applications.<br>
 • Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
