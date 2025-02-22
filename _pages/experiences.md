@@ -10,6 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ## Research Experiences
+* **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
+Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
+Sept 2024 - Present<br>
+• Led a team of 4 members in developing a high-resolution blood flow meter based on SNSPD (Superconducting
+Nanowire Single-Photon Detectors) to enhance measurement precision in medical applications.<br>
+• Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
+tissue under 1064/1550 nm laser sources.<br>
+• Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
+indices from the temporal optical field’s cross-correlation function.
+
+&emsp;for more details:[AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter](../assets/SNSPD-Blood Flow Detector.pdf)
+
 
 * **AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design**<br>
 Supervisor: XIAOLI JI, Professor, NJU<br>
@@ -24,18 +36,6 @@ significantly reducing the design iteration time.
 
 &emsp;for more details:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/Algorithm-Schottky.pptx)<br>
 &emsp;codes:[AI-Enhanced Plasmonic Gold-Silicon Schottky Junction Photodetector Design](../assets/Schottky-code.zip)
-
-* **AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter**<br>
-Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
-Sept 2024 - Dec 2024<br>
-• Led a team of 4 members in developing a high-resolution blood flow meter based on SNSPD (Superconducting
-Nanowire Single-Photon Detectors) to enhance measurement precision in medical applications.<br>
-• Designed and implemented an optical pathway using SNSPD to measure diffuse reflectance spectra of human
-tissue under 1064/1550 nm laser sources.<br>
-• Developed regression algorithms (LSTM, least squares, and Nth-order linear models) to extract blood flow
-indices from the temporal optical field’s cross-correlation function.
-
-&emsp;for more details:[AI-Enhanced SNSPD-Based Cross-Correlation Spectral Flow Meter](../assets/SNSPD-Blood Flow Detector.pdf)
 
 * **Temperature Control System Based on GM Cryocooler**<br>
 Supervisor: QINGYUAN ZHAO, Professor, NJU<br>
