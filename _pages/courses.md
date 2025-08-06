@@ -81,9 +81,9 @@ redirect_from:
 
 - Section 1: [晶体硅太阳能电池文献综述](../assets/course_report_SP.pdf)
 
-（其他课程报告也可按同样格式添加）
 
 ---
+
 
 
 
