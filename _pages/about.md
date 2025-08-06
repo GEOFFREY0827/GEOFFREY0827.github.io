@@ -25,7 +25,7 @@ You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_
 
 ## Technical Skills
 
-* **Embedded System Oriented**: C, C++, freeRTOS, linux, interface(GPIO,UART,IIC,SPI,BUS...), PCB design
+* **Embedded System Oriented**: C, C++, freeRTOS, linux, interface(GPIO,UART,IIC,SPI,BUS...)
 * **Artificial Intelligence Oriented**: python, PyTorch, sci-kit_learn, git, conda
 * **Quantum computing Oriented**: QUA, Quantum Machine
 * **Paper writing**: LaTeX, Markdown
