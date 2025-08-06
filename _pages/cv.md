@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-**Nanjing University**<span style="float: right;">      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  September 2022 – June 2026 (Expected)</span>  
+**Nanjing University**<span style="float: right;">      &emsp;&emsp;&emsp;&emsp;&emsp; September 2022 – June 2026 (Expected)</span>  
 GPA: 88.4 / 100 &emsp; Major: Microelectronics Science and Engineering
 
 ---
