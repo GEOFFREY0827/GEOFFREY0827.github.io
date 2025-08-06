@@ -42,7 +42,11 @@ redirect_from:
   <span>July 2024 – August 2024</span>
 </div>
 
+<!-- You can add more details about your program or coursework here -->
+
 ---
+
+
 
 
 
