@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Hobby"
 permalink: /hobby/
 ---
@@ -15,3 +15,4 @@ Recently, I have been interested in working on compiling a laboratory survival m
 Here is a preview of some of the contents of the manual:
 
 ![Hobby Image](../assets/EQSL_0.pdf) 
+
