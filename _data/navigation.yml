@@ -24,8 +24,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research Experiences"
-    url: /experiences/
+  # - title: "Research Experiences"
+  #  url: /experiences/
 
   - title: "Courses"
     url: /courses/
