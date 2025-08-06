@@ -20,7 +20,7 @@ In the past few years, I have been very fortunate to be advised by a lot of prof
 
 **I am now seeking master degree and phd position in 2026 fall.** I'd strongly appreciate it if you could consider me!
 
-You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_CV.pdf) (updated on 6th, August 2025)
+You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_CV_Latest.pdf) (updated on 6th, April 2025)
 
 
 ## Technical Skills
