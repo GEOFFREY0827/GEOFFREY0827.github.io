@@ -15,14 +15,14 @@ Here are some of my hobbies:
 
 ### 📘 Recent Interest
 
-Recently, I’ve been working on compiling a **laboratory survival manual**, documenting my experiences as an intern at EQSL (Experimental Quantum Systems Lab).
+Recently, I’ve been working on compiling a **laboratory study manual**, documenting what I have gained from the experience working as an intern at EQSL.
 
 Here’s a preview of some of the content:
-
-<iframe src="/assets/EQSL_0.pdf" width="100%" height="600px">
-  This browser does not support embedded PDFs.  
-  <a href="/assets/EQSL_0.pdf">Click here to download the PDF.</a>
-</iframe>
+![Page1](../assets/EQSL_0_01) 
+![Page2](../assets/EQSL_0_02) 
+![Page3](../assets/EQSL_0_03) 
+![Page4](../assets/EQSL_0_04) 
+![Page5](../assets/EQSL_0_05) 
 
 
 
