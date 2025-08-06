@@ -18,11 +18,12 @@ Here are some of my hobbies:
 Recently, I’ve been working on compiling a **laboratory study manual**, documenting what I have gained from the experience working as an intern at EQSL.
 
 Here’s a preview of some of the content:
-![Page1](../assets/EQSL_0_01) 
-![Page2](../assets/EQSL_0_02) 
-![Page3](../assets/EQSL_0_03) 
-![Page4](../assets/EQSL_0_04) 
-![Page5](../assets/EQSL_0_05) 
+![Page1](../assets/EQSL_0_01.jpg) 
+![Page2](../assets/EQSL_0_02.jpg) 
+![Page3](../assets/EQSL_0_03.jpg) 
+![Page4](../assets/EQSL_0_04.jpg) 
+![Page5](../assets/EQSL_0_05.jpg) 
+
 
 
 
