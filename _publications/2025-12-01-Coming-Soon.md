@@ -1,8 +1,9 @@
 ---
 title: "Ongoing Work – Coming Soon"
 collection: publications
-permalink: /publication/2025-12-01-coming-soon
+permalink: /publication/2025-12-01-coming-soon/
 date: 2025-12-01
 venue: 'To Be Announced'
 ---
+
 This research project is currently in progress. More information will be shared soon. Stay tuned!
