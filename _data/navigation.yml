@@ -36,7 +36,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  # - title: "Hobbies"
-  #   url: /hobby/
+  - title: "Hobbies"
+    url: /hobby/
   # - title: "Guide"
   #   url: /markdown/
