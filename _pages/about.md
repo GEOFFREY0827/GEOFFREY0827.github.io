@@ -7,28 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third-year undergraduate student from [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), [Nanjing University](https://www.nju.edu.cn/en/). I'm going to earn my B.S. degree in Microelectronics Science and Engineering in 2026. I am interested in machine learning, digital circuit design, and superconducting electronics.  
+I'm currently a senior student from [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), [Nanjing University](https://www.nju.edu.cn/en/). I'm going to earn my B.S. degree in Microelectronics Science and Engineering in 2026. I am interested in embedded system, artificial intelligence and quantum computing.  
 
-In the past few years, I have been very fortunate to be advised by Prof. [Qingyuan Zhao](https://sccm.nju.edu.cn/21/e8/c32058a467432/page.htm) of Superconducting Quantum Devices and Photon Information Lab and Prof. [Xiaoli Ji](https://ese.nju.edu.cn/jxl_24120/list.htm) from School of Electronic Science and Engineering, Nanjing University.<br>
+In the past few years, I have been very fortunate to be advised by a lot of professors with outstanding academic abilities and educational enthusiasm. Which allows me to explore wide range of topics in computer science and electrical engineering. Here are the topics and projects I have participated in:
 
-**I am now seeking summer research opportunities in 2025 summer.** I'd strongly appreciate it if you could consider me!
+|Topics                        |Projecs                                                                 |Metor                                      |
+|------------------------------|------------------------------------------------------------------------|-------------------------------------------|
+|embedded system               |AI-based electrocardiogram diagnostic device based on Renesas RA8D1 MCU |Yina Zhou(ESE, Nanjing University)         |
+|quantum computing             |Qubit control & readout using Quantum Machine                           |Dafei Jin(PHY, University of Notre Dame)   |
+|artificial intelligence       |DNN and PSO algorithm enhanced semiconducting device design             |Xiaoli Ji(ESE, Nanjing University)         |
+|superconducting device        |GM croycoller PID temperaturer control system & SNSPD application       |Qingyuan Zhao(ESE, Nanjing University)     |
 
-You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_CV.pdf)
+**I am now seeking mastes degree and Phd position in 2026 fall.** I'd strongly appreciate it if you could consider me!
+
+You can find my CV here: [HAORAN YANG's Curriculum Vitae](../assets/Haoran_Yang_CV.pdf) (updated on 6th, August 2025)
 
 
 ## Technical Skills
 
-&emsp; S:  skilled<br>
-&emsp; M:  masted<br>
-&emsp; L:  learned before<br>
-&emsp; U:  used before<br>
-&emsp; K:  know sth about it<br>
-* **Basic Skills**: Python(M), LaTeX(M), Markdown(M), C(L), MATLAB(U), Mathematic(U)  
-* **Software-related**: PyTorch(M), sci-kit_learn(U), git(K)  
-* **Circuit Design-related**: Cadence Virtuoso(L), Multisim(L), Simulink(L), Verilog(L)  
-* **Physics-related**: COMSOL(U), FDTD(U)  
+* **Embedded System Oriented**: C, C++, freeRTOS, linux, interface(GPIO,UART,IIC,SPI,BUS...), PCB design
+* **Artificial Intelligence Oriented**: python, PyTorch, sci-kit_learn, git, conda
+* **Quantum computing Oriented**: QUA, Quantum Machine
+* **Paper writing**: LaTeX, Markdown
 
-I am striving to improve my skills in coding, mathematics, and digital circuit design, and I believe I will succeed!
+
+I am striving to improve my skills in computer science and engineering, and I am learning more quantum physics as well.
 
 [Email:221180053@smail.nju.edu.cn](mailto:221180053@smail.nju.edu.cn)
 
