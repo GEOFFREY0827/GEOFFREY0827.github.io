@@ -10,9 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Awards from competitions
-* to be added...
+* Honorable Mention, Mathematical Contest In Modeling
+* 
 
 ## Awards in Nanjing University
 * Second-Class, People’s Scholarship<br>
 * Outstanding Volunteer, Nanjing University<br>
 * Excellent Lecturer, Starfire Teaching Group<br>
+
