@@ -8,23 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## Education
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Nanjing University</strong></span>
-  <span>September 2022 – June 2026 (Expected)</span>
-</div>
+**Nanjing University**<span style="float: right;">September 2022 – June 2026 (Expected)</span>  
 GPA: 88.4 / 100 &emsp; Major: Microelectronics Science and Engineering
 
 ---
 
 ## International Research Experience
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>University of Notre Dame</strong></span>
-  <span>July 2025 – January 2026 (Expected)</span>
-</div>
+**University of Notre Dame**<span style="float: right;">July 2025 – January 2026 (Expected)</span>  
 Mentor: Professor Dafei Jin  
 Department: Physics & Astronomy
 
@@ -32,13 +25,11 @@ Department: Physics & Astronomy
 
 ## Summer School Experience
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>University of Cambridge</strong></span>
-  <span>July 2024 – August 2024</span>
-</div>
+**University of Cambridge**<span style="float: right;">July 2024 – August 2024</span>
 
 ---
 
 ## Competition Awards
 
 - Honorable Mention, Mathematical Contest in Modeling (MCM)
+
