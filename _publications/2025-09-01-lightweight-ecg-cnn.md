@@ -6,4 +6,5 @@ date: 2025-09-01
 venue: 'Under Review'
 ---
 
-This work introduces a lightweight multi-task convolutional neural network integrated with GRU-based diffusion layers for accurate ECG diagnosis across multiplel conditions.
+This work introduces a lightweight multi-task convolutional neural network integrated with GRU-based diffusion layers for accurate ECG diagnosis across multiple conditions.
+
