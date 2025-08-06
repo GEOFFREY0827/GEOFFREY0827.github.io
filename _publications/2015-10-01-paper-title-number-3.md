@@ -1,11 +1,10 @@
 ---
-permalink: /publication/2015-10-01-paper-title-number-3
+title: "Dual-Model Fusion for Olympic Medal Prediction: Integrating Elastic Net Regression with CatBoost Classification"
+collection: publications
+permalink: /publication/2025-08-22-dual-model-fusion
+date: 2025-08-22
+venue: '8th International Conference on Big Data and Artificial Intelligence (BDAI 2025), Taicang, China'
+paperurl: ''
+citation: 'Author names. "Dual-Model Fusion for Olympic Medal Prediction: Integrating Elastic Net Regression with CatBoost Classification." In Proceedings of the 8th International Conference on Big Data and Artificial Intelligence (BDAI 2025), Taicang, China, August 2025.'
 ---
-
-[1]"Dual-Model Fusion for Olympic Medal Prediction: Integrating Elastic Net Regression with CatBoost Classification" 8th International Conference on Big Data and Artificial Intelligence.(BDAI 2025)Taicang, China, August 22-24, 2025
-
-
-[2]"Lightweight Multi-task CNN for ECG Diagnosis with GRU-Diffusion" (Under review)
-
-
-[3] Onging, coming soon
+This paper proposes a dual-model fusion approach that integrates Elastic Net Regression with CatBoost Classification to predict Olympic medal outcomes with improved accuracy.
