@@ -17,8 +17,8 @@ GPA: 88.4 / 100 &emsp; Major: Microelectronics Science and Engineering
 
 ## International Research Experience
 
-**University of Notre Dame**<span style="float: right;">    &emsp;&emsp;&emsp; &emsp;   July 2025 – January 2026 (Expected)</span>  
-Mentor: Professor Dafei Jin; &emsp; Department: Physics & Astronomy
+**University of Notre Dame**<span style="float: right;">    &emsp;&emsp;&emsp;   July 2025 – January 2026 (Expected)</span>  
+Mentor: Professor Dafei Jin; &emsp;&emsp; Department: Physics & Astronomy
 
 ---
 
