@@ -18,7 +18,7 @@ Over the past few years, I have been fortunate to be advised by several professo
 | **Topic**              | **Project**                                                                 | **Mentor**                                 |
 |------------------------|------------------------------------------------------------------------------|--------------------------------------------|
 | Embedded Systems       | AI-based electrocardiogram diagnostic device on Renesas RA8D1 MCU           | Prof. Yina Zhou (ESE, Nanjing University)  |
-| cryogenic physics      | Qubit control & readout using Quantum Machines (OPX)                        | Prof. Dafei Jin (PHY, University of Notre Dame) |
+| Quantum computing      | Qubit control & readout using Quantum Machines (OPX)                        | Prof. Dafei Jin (PHY, University of Notre Dame) |
 | Artificial Intelligence| DNN & PSO-enhanced semiconductor device optimization                        | Prof. Xiaoli Ji (ESE, Nanjing University)  |
 | Superconducting Devices| GM cryocooler PID temperature control & SNSPD application                   | Prof. Qingyuan Zhao (ESE, Nanjing University) |
 
