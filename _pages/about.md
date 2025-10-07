@@ -46,8 +46,9 @@ If you find my background relevant or interesting, I would be truly grateful if 
 - Git, Conda, NumPy, Pandas
 
 #### ⚛️ Quantum Computing
-- QUA programming language
-- Quantum Machines OPX+ platform
+- Electron charge qubit quantum platform
+- Qiskit, Pennylane,, QUA
+- Quantum Machines OPX1000 platform
 
 #### ✍️ Academic Writing
 - LaTeX, Markdown
