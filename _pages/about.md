@@ -47,7 +47,7 @@ If you find my background relevant or interesting, I would be truly grateful if 
 
 #### ⚛️ Quantum Computing
 - Electron charge qubit quantum platform
-- Qiskit, Pennylane,, QUA
+- Qiskit, Pennylane, QUA
 - Quantum Machines OPX1000 platform
 
 #### ✍️ Academic Writing
